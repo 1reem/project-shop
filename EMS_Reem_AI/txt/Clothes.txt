@@ -1,0 +1,4 @@
+ItemID,itemName,color,department,size,price,
+1001,Shirt,blue,men,L,12,
+1002,Dress,green,women,XL,500,
+1003,Pants,yellow,kids,M,31,
